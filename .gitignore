@@ -67,3 +67,5 @@ bin/
 
 # src files
 src/
+
+.idea
